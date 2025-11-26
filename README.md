@@ -1,5 +1,5 @@
-# Role-Based Access Control (RBAC) Using AWS IAM for EC2 Management
-
+ Role-Based Access Control (RBAC) Using AWS IAM for EC2 Management
+Youtube link : https://youtu.be/JsGi165zboQ
 This repository demonstrates a secure, role-based access control (RBAC) configuration in AWS using IAM. The project provides a practical setup where one IAM user receives EC2 privileges via a direct policy, while S3 access is granted only through a group. This approach ensures controlled, segregated, and purpose-driven permissions.
  Objective
 To implement a secure AWS IAM configuration where:
@@ -39,3 +39,4 @@ This project demonstrates:
 - Separation of privilege through users and groups
 - Real-world security practices for AWS accounts
 - Deployment of RBAC without over-privileged users
+
